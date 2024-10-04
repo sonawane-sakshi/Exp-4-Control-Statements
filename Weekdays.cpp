@@ -43,3 +43,9 @@ int main() {
         }
     }
 }
+/*
+**Output**
+Enter a number between 1 and 7: 3
+It is Tuesday
+*/
+
