@@ -22,4 +22,11 @@ int main()
     }
     return 0;
 }
+/*
+    **Output**
+Enter 1st number: 34
+Enter 2nd number: 56
+56 is greater than 34
+*/
+    
 
