@@ -21,3 +21,8 @@ int main()
 		}
 		
 	}
+/*
+**Output**
+value of character:t
+character is a vowel
+*/
