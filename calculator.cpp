@@ -34,3 +34,21 @@ int main(){
     }
     return 0;
 }
+/*
+**Output**
+Enter the operator: +, -, *, /:/
+Enter two Operands:3
+6
+3/60.5
+
+Enter the operator: +, -, *, /:*
+Enter two Operands:30
+20
+30*20=600
+
+Enter the operator: +, -, *, /:-
+Enter two Operands:78
+90
+78-90=-12
+*/
+    
