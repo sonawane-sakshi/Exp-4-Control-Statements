@@ -13,3 +13,10 @@ int main()
     cout<<"it is odd no"<<endl;
     return 0;
 }
+/*
+**Output**
+enter a no
+45
+it is odd no
+*/
+ 
